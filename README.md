@@ -15,9 +15,9 @@ This is a shared, multi-track Experience Lab project. Each intern track (Data An
 ## 🗂️ Repository Structure
 
 ```
-├── week4-kickoff/
-│   ├── Initial_Analysis_Document.docx     # Dataset overview, data quality assessment, business questions, potential KPIs
-│   └── Week4_Project_Summary.docx         # Concise summary of Week 4 progress and Week 5 focus
+├
+├── Initial_Analysis_Document.docx     # Dataset overview, data quality assessment, business questions, potential KPIs
+├── Week4_Project_Summary.docx         # Concise summary of Week 4 progress and Week 5 focus
 └── README.md
 ```
 *(Structure will expand in subsequent weeks as the project progresses through Analysis & Solution Design, Development, Testing, and Final Presentation.)*
