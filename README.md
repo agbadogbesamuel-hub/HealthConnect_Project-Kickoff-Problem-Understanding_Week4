@@ -10,8 +10,6 @@ HealthConnect Clinic is a fictional healthcare provider facing a significant ope
 
 This is a shared, multi-track Experience Lab project. Each intern track (Data Analytics, Data Science, Machine Learning Engineering, Generative AI, Project Management) contributes from its own professional angle. This repository documents the **Data Analytics track** contribution, progressing week by week toward a portfolio-ready final deliverable.
 
-> ⚠️ Week 4 is a foundation stage. The focus is on problem understanding, resource review, and initial planning — not on final analysis, dashboards, or models.
-
 ## 🗂️ Repository Structure
 
 ```
